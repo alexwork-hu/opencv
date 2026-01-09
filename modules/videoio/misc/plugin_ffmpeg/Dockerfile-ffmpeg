@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:questing-20251007
 
 RUN apt-get update && apt-get install -y \
         pkg-config \
